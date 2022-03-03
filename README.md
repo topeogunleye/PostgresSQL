@@ -37,7 +37,7 @@ Run this command
 
 ## Authors
 
-👤 **Author1**
+👤 **Temitope Ogunleye**
 - GitHub: [@githubhandle](https://github.com/topeogunleye)
 - Twitter: [@twitterhandle](https://twitter.com/topeogunleye21)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ogunleye)
